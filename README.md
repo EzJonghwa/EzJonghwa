@@ -1,4 +1,4 @@
-## Hi there 👋
+## 살려주ㅔ요 👋
 
 <!--
 **EzJonghwa/EzJonghwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
